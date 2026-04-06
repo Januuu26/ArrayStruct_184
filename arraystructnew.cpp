@@ -8,7 +8,7 @@ int main() {
 
     cout << "Data pada index 1 = " << aku[1] << endl;
     
-    aku[1] = 10;
+    aku[1] = 100;
     cout << endl;
     cout << "Data pada index 1 = " << aku[1] << endl;
 
