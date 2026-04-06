@@ -12,5 +12,11 @@ struct orang
 int main()
 {
     orang mhs;
-    
+    cout << "Nama : ";
+    cin >> mhs.nama;
+    cout << "Alamat : ";
+    cin >> mhs.alamat;
+    cout << "Umur : ";
+    cin >> mhs.umur;
+    cout << endl;
 }
