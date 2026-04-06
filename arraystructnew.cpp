@@ -12,4 +12,7 @@ int main() {
     cout << endl;
     cout << "Data pada index 1 = " << aku[1] << endl;
 
+    cout << "Data index 0 =";
+    cin >> kamu[0];
 }
+
