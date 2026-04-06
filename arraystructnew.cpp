@@ -23,9 +23,6 @@ int main() {
 
     cout << "Data index 3 =";
     cin >> kamu[3];
-
-    cout << "Data index 4 =";
-    cin >> kamu[4];
     cout << endl;
 
     //menampilakan satu persatu
@@ -33,7 +30,7 @@ int main() {
     cout << "Data kedua = " << kamu[1] << endl;
     cout << "Data ketiga = " << kamu[2] << endl;
     cout << "Data keempat = " << kamu[3] << endl;
-    cout << "Data kelima = " << kamu[4] << endl;
+
     cout << endl;
 
     //mengisi menggunakan for
