@@ -18,7 +18,7 @@ struct orang
 int main()
 {
     orang mhs;
-    for (int i = 0; i < 3; i++)
+    for (int i = 0; i < 2; i++)
     {
     cout << "Data ke-" << i+1 << endl;
     cout << "Nama : ";
@@ -32,7 +32,7 @@ int main()
     cout << endl;
     }
 
-    for (int i = 0; i < 3; i++)
+    for (int i = 0; i < 2; i++)
     {       
     cout << "Nama : " << mhs.nama << endl;
     cout << "Alamat : " << mhs.alamat.desa << endl;
