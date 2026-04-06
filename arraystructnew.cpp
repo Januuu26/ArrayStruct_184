@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int aku[5] = {1, 2, 3, 4, 5};
+    int aku[5] = {10, 20, 30, 40, 50};
 
     int kamu[5];
 
